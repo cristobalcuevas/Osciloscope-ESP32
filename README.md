@@ -12,5 +12,5 @@ It was based on designing a board that could do the acquisition and conditioning
 
 ## Video
 
-[Video Google Drive](https://drive.google.com/file/d/1jKXpbea2SFpHbxWFMag4WS3YogWa_oBE/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1jKXpbea2SFpHbxWFMag4WS3YogWa_oBE/view?usp=sharing" target="_blank">Video Google Drive</a>
 
