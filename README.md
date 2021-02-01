@@ -1,7 +1,3 @@
----
-driveId: 1jKXpbea2SFpHbxWFMag4WS3YogWa_oBE/preview
----
-
 # Osciloscope with ESP32
 
 This was my project to get my degree :)
