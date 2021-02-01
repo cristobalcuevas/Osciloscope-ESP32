@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+      <meta charset="utf-8">
+      <title>Tomar Datos - ESP32</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <link rel="icon" href="./img/favicon.ico">
+	  <link href="./css/main.css" rel="stylesheet" type="text/css">
+   </head>
+   <body>
+	<div class="container">
+		<form action="/enviardatos" method="post">
+			<div class="block title">Datos a medir</div>
+			<div class="block">
+				<input type="number" class="input-data" placeholder="Ingrese cantidad" name="numberValues" min="1" max="5000" required>
+			</div>
+			<div class="block">
+				<button type="submit" class="send-data">Enviar</button>
+			</div>
+			<div class="block erase-data">
+				<a href="/borrar" class="erase-item">Borrar Datos</a>
+			</div>
+		</form>
+	</div>
+    </body>
+</html>
