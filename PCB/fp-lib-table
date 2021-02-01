@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name ESP_32)(type KiCad)(uri ${KIPRJMOD}/Modulos/ESP_32)(options "")(descr ""))
+  (lib (name RAC05_12DC)(type KiCad)(uri ${KIPRJMOD}/Modulos/RAC05_12DC)(options "")(descr ""))
+  (lib (name Terminal_Block)(type KiCad)(uri ${KIPRJMOD}/Modulos/Terminal_Block)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri ${KIPRJMOD}/Graficas/Logo)(options "")(descr ""))
+  (lib (name Peligro)(type KiCad)(uri ${KIPRJMOD}/Graficas/Peligro)(options "")(descr ""))
+)
