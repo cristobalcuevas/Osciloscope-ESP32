@@ -10,8 +10,10 @@ It was based on designing a board that could do the acquisition and conditioning
 
 ## PCB Design
 
+### Front Layer
 <img src="https://github.com/cristobalcuevas/Osciloscope-ESP32/blob/main/PCB/Imagenes/front.png" width="80%" height="80%">
 
+### Back Layer
 <img src="https://github.com/cristobalcuevas/Osciloscope-ESP32/blob/main/PCB/Imagenes/back.png" width="80%" height="80%">
 
 ## Video
