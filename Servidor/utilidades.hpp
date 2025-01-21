@@ -1,6 +1,6 @@
 /****************** DATOS RED *******************/
-const char* ssid     = "CLAGOS";
-const char* password = "50863835";
+const char* ssid     = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 /**************** CONEXIÓN STA ******************/
 void ConnectWiFi_STA() {
   Serial.println("");
